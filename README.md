@@ -1,4 +1,4 @@
-# 🦞 Clawmart.cn
+# 🦞 Clawmart.cn 打造您的AI门店系统
 # 龙虾店长：建立您自己的AI智能店铺
 
 
